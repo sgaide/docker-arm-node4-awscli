@@ -1,4 +1,4 @@
-#docker.io sgaide/docker-arm-node4
+#docker.io sgaide/docker-arm-node4-awscli
 
 FROM easypi/alpine-arm:3.4
 
